@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-WhoIs_Look_Up.csv
-input.txt
-.venv/
-.idea/
-.vscode/
