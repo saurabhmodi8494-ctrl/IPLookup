@@ -2,8 +2,6 @@
 
 A small Python script that reads IP addresses from a text file, performs a WHOIS lookup on each, and saves the results to a CSV file.
 
-**Created by:** Saurabh Modi
-**Created on:** 18-02-2018
 
 ## Installation
 
@@ -27,7 +25,6 @@ pip install -r requirements.txt
 ## Notes
 
 - IPs that fail to resolve are written as `Not Found`.
-- `IPLookup.reverse_dns()` is also available for PTR lookups if you want to use it in your own code.
 
 ## License
 
